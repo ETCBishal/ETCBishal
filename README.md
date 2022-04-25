@@ -9,6 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+## 🛠 Skills
+Python, Tkinter, c, c++
+
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ETCBishal/Python__Project](https://github.com/ETCBishal/Python__Project)
