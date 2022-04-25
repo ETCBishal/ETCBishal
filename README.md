@@ -17,11 +17,11 @@
 
 - 🌱 I’m currently learning **Python**
 
-[- 👨‍💻 My Projects](https://github.com/ETCBishal?tab=repositories)
+- 👨‍💻 [@My Projects](https://github.com/ETCBishal?tab=repositories)
 
 - 💬 Ask me about **Python Programming**
 
-- 📫 How to reach me **bishaljaiswal0408@gmail.com**
+- 📫 [@How to reach me](bishaljaiswal0408@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
