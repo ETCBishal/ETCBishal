@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at (https://github.com/ETCBishal?tab=repositories)
+[- 👨‍💻 My Projects](https://github.com/ETCBishal?tab=repositories)
 
 - 💬 Ask me about **Python Programming**
 
