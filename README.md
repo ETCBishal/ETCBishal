@@ -12,6 +12,7 @@
 - [@Tkinter](https://www.youtube.com/watch?v=-Q4lm8eYulw&list=PLu0W_9lII9ajLcqRcj4PoEihkukF_OTzA)
 - [@C](https://www.programiz.com/c-programming)
 - [@C++](https://www.youtube.com/watch?v=j8nAHeVKL08&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
+- Data Analysis
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
