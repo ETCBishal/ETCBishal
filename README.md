@@ -14,7 +14,7 @@
 - [@C++](https://www.youtube.com/watch?v=j8nAHeVKL08&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
 - Data Analysis
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 🌱 I’m currently learning [Python](https://www.youtube.com/watch?v=aqvDTCpNRek&list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
 
@@ -24,15 +24,14 @@
 
 - 📫 [@How to reach me](bishaljaiswal0408@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="30" height="30"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishal7&show_icons=true&locale=en&layout=compact" alt="bishal7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishal7&show_icons=true&locale=en" alt="bishal7" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bishal&show_icons=true&locale=en&layout=compact" alt="BishalJaiswal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishal7&" alt="bishal7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bishal&show_icons=true&locale=en" alt="BishalJaiswal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bishal&" alt="bishal7" /></p>
