@@ -30,8 +30,8 @@
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="30" height="30"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bishal&show_icons=true&locale=en&layout=compact" alt="BishalJaiswal" /></p>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ETCBishal&theme=blue-grey)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bishal&show_icons=true&locale=en" alt="BishalJaiswal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ETCBishal&show_icons=true&locale=en" alt="BishalJaiswal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bishal&" alt="bishal7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ETCBishal&" alt="bishal7" /></p>
