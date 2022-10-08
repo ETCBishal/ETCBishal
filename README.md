@@ -12,7 +12,7 @@
 - [@Tkinter](https://www.youtube.com/watch?v=-Q4lm8eYulw&list=PLu0W_9lII9ajLcqRcj4PoEihkukF_OTzA)
 - [@C](https://www.programiz.com/c-programming)
 - [@C++](https://www.youtube.com/watch?v=j8nAHeVKL08&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
-- Data Analysis
+- Data Structure and Algorithm
 
 
 
